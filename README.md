@@ -2,6 +2,7 @@
 
 Olá, me chamo João Vitor, tenho 22 anos e estou cursando o 6º modulo em Análise e Desenvolvimento de Sistemas no Instituto Federal de Roraima. Atualmente resido em Boa Vista - RR e atuo como Backend developer Jr na Orange Labs Tecnologia LTDA.
 
+![Um gato mexendo no computador](https://acegif.com/wp-content/uploads/cat-typing-2.gif)
 Na área profissional faço uso atualmente das seguintes tecnologias: 
 - PHP 7.4 com o framework Symfony 5.4
 - Banco de Dados relacional MySQL 8.0
