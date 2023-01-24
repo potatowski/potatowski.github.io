@@ -1,8 +1,8 @@
 <p align="left">Hi I'am Vitor Rocha 👋👨🏻‍💻</p>
 
-<p align="left">Student of Systems Analysis and Development and passionate about technology.
- 
-Developer Backend PHP at [Orange Labs](https://orangelabs.com.br "Orange Labs").</p>
+<p align="left">Student of Systems Analysis and Development and passionate about technology.</p>
+
+Developer Backend PHP at [Orange Labs](https://orangelabs.com.br "Orange Labs")
 
 <div align="center">
   <img height="200" src="https://acegif.com/wp-content/uploads/cat-typing-2.gif"/>
@@ -58,7 +58,6 @@ Developer Backend PHP at [Orange Labs](https://orangelabs.com.br "Orange Labs").
   </a>
 </div>
 
-###
 <h2 align="left">My contributions in the last year</h2>
 
 <div align="center">
